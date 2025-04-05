@@ -1,0 +1,20 @@
+   \resumeProject
+      {CREATING A DRUM-KIT}{} %Project Name
+       %Project Name, Location Name
+      {2023} %Event Dates
+      \resumeItemListStart
+        \item {Tools \& technologies used: Html,CSS,JavaScript}
+        \item {Aim of this project is to create a responsive website.In this website there are seven buttons, upon clicking this buttons a music will be played.}
+        \item {This project helped in understanding DOM manipulations.}
+    \resumeItemListEnd
+    \vspace{-2mm}
+     \resumeProject
+      {CREATING A TOdo-List} {}%Project Name
+       %Project Name, Location Name
+      {2023} %Event Dates
+      \resumeItemListStart
+        \item {Tools \& technologies used:HTML,CSS,JavaScript, EJS, ExpressJS, Mongoose}
+        \item {Aim of this project is to create a todo-list, where the user can add/delete the tasks on the website.}
+        \item {This project helped in understanding ExpressJS, Mongoose.}
+    \resumeItemListEnd
+    \vspace{-2mm}
